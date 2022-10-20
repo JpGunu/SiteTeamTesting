@@ -4,7 +4,7 @@
 </a>
 </div>  
 
-### Bievenido!👋
+## Bievenido!👋
 
 Esta prueba es para saber tus conocimientos.
 
@@ -27,7 +27,7 @@ Esto serán los skills para su desarrollo
 
 Y recuerda tener una buena practica de codigo, que sea legible y limpio.✌️
 
-## Requerimiento
+### Requerimiento
 Se desea crear el modulo para la <b>sección actualidad</b>.
 
 - Debe verse de igual manera para Desktop y Mobile
@@ -37,5 +37,5 @@ Se desea crear el modulo para la <b>sección actualidad</b>.
 - Fuente de letra <b> Encode Sans Condensed </b>
 
 
-## TIP
+### TIP
 Puede revisar https://trome.pe/actualidad/ para que te puedas guiar de los colores, fuentes y tamaños!
