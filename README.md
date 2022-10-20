@@ -14,7 +14,7 @@ Estos serán los skills para su desarrollo
 
 - Hooks (Usar al menos 2)
 
-- GIT (Usar al menos 3 commits)
+- GIT (Inicio del proyecto y Fin)
   
 - SCSS (Buena practica con "BEM")
 
