@@ -26,8 +26,7 @@ Estos serán los skills para su desarrollo
 
 - Docker (Opcional) 
 
-**IMPORTANTE**
-USAR <b>GIT</b>:
+**IMPORTANTE USAR GIT**
 - 1 commit al inicio del proyecto
 - 1 commit al final del proyecto
 
