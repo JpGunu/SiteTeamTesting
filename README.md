@@ -24,7 +24,7 @@ Estos serán los skills para su desarrollo
 
 - npx (Opcional) 
 
-- Eslint
+- Eslint (Opcional) 
 
 - Docker (Opcional) 
 
