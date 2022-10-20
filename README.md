@@ -34,3 +34,8 @@ Se desea crear el modulo para la <b>sección actualidad</b>.
 - La cantidad de notas estará en el servicio de "schema.json"
 - Las notas deben verse de forma "Descendente en las fechas"
 - Solo tomar las notas de tipo actualidad
+- Fuente de letra <b> Encode Sans Condensed </b>
+
+
+## TIP
+Puede revisar https://trome.pe/actualidad/ para que te puedas guiar de los colores, fuentes y tamaños!
