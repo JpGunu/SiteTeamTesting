@@ -34,8 +34,8 @@ Se desea crear lo siguiente
 - Solo tomar las notas de tipo actualidad
 - Fuente de letra <b> Encode Sans Condensed </b>
 
-Desktop:
+<b>Desktop</b>:<br>
 <img src="https://i.imgur.com/OXh23KC.png" align="center" />
 
-Mobile:
+<b>Mobile</b>:<br>
 <img src="https://i.imgur.com/w1GFN2z.png" align="center" />
