@@ -8,7 +8,7 @@
 
 Esta prueba es para saber tus conocimientos.
 
-Esto serán los skills para su desarrollo
+Estos serán los skills para su desarrollo
 
 - React  
 
@@ -26,7 +26,7 @@ Esto serán los skills para su desarrollo
 Y recuerda tener una buena practica de codigo, que sea legible y limpio.✌️
 
 ### Requerimiento
-Se desea crear el modulo para la <b>sección actualidad</b>.
+Se desea crear lo siguiente
 
 - Debe verse de igual manera para Desktop y Mobile
 - La cantidad de notas estará en el servicio de "schema.json"
@@ -34,6 +34,8 @@ Se desea crear el modulo para la <b>sección actualidad</b>.
 - Solo tomar las notas de tipo actualidad
 - Fuente de letra <b> Encode Sans Condensed </b>
 
+Desktop:
+<img src="https://i.imgur.com/OXh23KC.png" align="center" />
 
-### TIP
-Revisa https://trome.pe/actualidad/ para que te puedas guiar de los colores, fuentes y tamaños!
+Mobile:
+<img src="https://i.imgur.com/w1GFN2z.png" align="center" />
