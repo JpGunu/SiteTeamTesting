@@ -36,4 +36,4 @@ Se desea crear el modulo para la <b>sección actualidad</b>.
 
 
 ### TIP
-Puede revisar https://trome.pe/actualidad/ para que te puedas guiar de los colores, fuentes y tamaños!
+Revisa https://trome.pe/actualidad/ para que te puedas guiar de los colores, fuentes y tamaños!
