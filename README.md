@@ -50,3 +50,6 @@ Se desea crear lo siguiente
 - Tiempo de realización
 - Buenas practicas de desarrollo
 - Comentar codigo (solo en la logica)
+
+### Data
+#### schema.json
