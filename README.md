@@ -14,7 +14,7 @@ Esto serán los skills para su desarrollo
 
 - Hooks (Utilizar al menos 2)
   
-- SASS (Buena practica con "BEM")
+- SCSS (Buena practica con "BEM")
 
 - Typescript
 
