@@ -2,93 +2,93 @@
 	"notes":[
 	   {
 		  "id":"1",
-		  "hora":"09:15",
-		  "fecha":"19-10-2022",
-		  "nota_title":"Cyber Wow 2022: ¿Cuáles serán los productos más buscados por los peruanos?",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/5ughaQRKTAzfJmfg6ImBAujlDA0=/314x157/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ORHXKUMB6NHZFHC73NDXBDA3KA.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Video de youtube oficial",
+		  "autor":"Jean Paul",
+		  "section":"news",
+		  "image":"https://s04.video.glbimg.com/x360/6120663.jpg",
+		  "type":"slider_grid"
 	   },
 	   {
 		  "id":"2",
-		  "hora":"07:12",
-		  "fecha":"19-10-2022",
-		  "nota_title":"Enel: LINK para consultar los corte de luz programados en Lima y Callao",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/WP1rTefZ4PE7eQAp4AdV92-5x3s=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WPWWPWE5XFCZJJEQ2A2TSR2KZU.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Sport TV",
+		  "autor":"Jean Paul",
+		  "section":"news",
+		  "image":"https://s01.video.glbimg.com/x360/7339108.jpg",
+		  "type":"slider_grid"
 	   },
 	   {
 		  "id":"3",
-		  "hora":"12:25",
-		  "fecha":"17-10-2022",
-		  "nota_title":"Padres e hijos: ¿Cómo influye en los niños  el cambio de hogar?",
-		  "autor":"Redacción trome",
-		  "seccion":"mundo",
-		  "imagen":"https://trome.pe/resizer/q7gQTo5YYE87MW4nN-ecN4VKpfE=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YDGT6RUXOZHYTCR6CM34MMTYFM.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Camara Escondida TV",
+		  "autor":"Jean Paul",
+		  "section":"news",
+		  "image":"https://s02.video.glbimg.com/x360/7339101.jpg",
+		  "type":"slider_grid"
 	   },
 	   {
 		  "id":"4",
-		  "hora":"07:35",
-		  "fecha":"16-10-2022",
-		  "nota_title":"Beder Camacho sobre los intentos de asilo político a Bruno Pacheco: “Es un tema reservado”",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/yDeOzwIdA6SLgR-nZpI6ieOoUPM=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/XOHLUCSMKFFHTPZ4R5SVBBJSME.jfif"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"title 1",
+		  "autor":"Jean Paul",
+		  "section":"note",
+		  "image":"https://i.imgur.com/v3C58W0.png",
+		  "type":"slider_note"
 	   },
 	   {
 		  "id":"5",
-		  "hora":"09:35",
-		  "fecha":"12-10-2022",
-		  "nota_title":"Señor de los Milagros: Hoy el Cristo Moreno retorna a Las Nazarenas, acompáñelo con fe en procesión o de forma virtual",
+		  "date":"19-10-2022 13:50:10",
+		  "title":"title 2",
 		  "autor":"Jean Paul",
-		  "seccion":"viajes",
-		  "imagen":"https://trome.pe/resizer/hdzOwA6CY30aYM_AhX1UJatL5-w=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZI6LLS2E7BGYFA3PLIPVO6JBHY.jpg"
+		  "section":"note",
+		  "image":"https://i.imgur.com/SNjR9Sm.png",
+		  "type":"slider_note"
 	   },
 	   {
 		  "id":"6",
-		  "hora":"09:35",
-		  "fecha":"11-10-2022",
-		  "nota_title":"Plaza Vea no estará obligada a entregar televisores que vendieron a S/ 35, dice Indecopi",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/_eIpjUwXTTR7bTRki-vMxZyf-oU=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/FZZPVQYZIBGAXM6HRW35FL55LQ.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"title 3",
+		  "autor":"Jean Paul",
+		  "section":"note",
+		  "image":"https://i.imgur.com/MINsRTD.jpg",
+		  "type":"slider_note"
 	   },
 	   {
 		  "id":"7",
-		  "hora":"13:18",
-		  "fecha":"12-10-2022",
-		  "nota_title":"Héroe: Peruano asesinado en EE.UU. abrazó y protegió con su cuerpo a niña para que pudiese escapar",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/AAca0IzJjIHyJl_cLFiXOfLON7o=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MBKPUBFXOFAJ3PYZKYZSGHQSFY.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Pelicula de Reina Isabel",
+		  "autor":"Jean Paul",
+		  "section":"note",
+		  "image":"https://i.imgur.com/0Qevzpn.png",
+		  "type":"section_note"
 	   },
 	   {
 		  "id":"8",
-		  "hora":"14:12",
-		  "fecha":"20-09-2022",
-		  "nota_title":"Pedro Castillo: “La libertad de prensa no es mentir ni difamar”",
-		  "autor":"Jean Paul",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/JeewKpU4YnB5_f3sfEMh4m2Xvwk=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SP2FMU4LUFAOFEQFQGNL4SXZ34.jpeg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Juego para PC de acción",
+		  "autor":"Jp",
+		  "section":"note",
+		  "image":"https://i.imgur.com/FWIwIfi.png",
+		  "type":"section_note"
 	   },
 	   {
 		  "id":"9",
-		  "hora":"15:01",
-		  "fecha":"16-10-2022",
-		  "nota_title":"Casa Magia: Albergue que acoge a niños con cáncer de todo el Perú cumple 6 años",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/8BWk1rxb3qrIAV78IVI8gRtIKpw=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/M3DSE7XYDJAWBJGJTHHEDC646U.jpg"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Google mejora su seguridad",
+		  "autor":"Jean Paul",
+		  "section":"note",
+		  "image":"https://i.imgur.com/YPBbgdf.png",
+		  "type":"section_note"
 	   },
 	   {
 		  "id":"10",
-		  "hora":"14:00",
-		  "fecha":"12-10-2022",
-		  "nota_title":"Daddy Yankee en Lima: mujer intentó ingresar a primer concierto del ‘Big Boss’ disfrazada de VIP",
-		  "autor":"Redacción trome",
-		  "seccion":"actualidad",
-		  "imagen":"https://trome.pe/resizer/SsIjxOVl7KlCzU79xFKi4YMhDuw=/234x161/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KISOHHJIOBC5TEPGFKOZCYFIBA.png"
+		  "date":"19-10-2022 13:50:10",
+		  "title":"Starlink mejora su curso",
+		  "autor":"Jean Paul",
+		  "section":"note",
+		  "image":"https://i.imgur.com/UJDvy4m.png",
+		  "type":"section_note"
 	   }
 	]
  }
