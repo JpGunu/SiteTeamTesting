@@ -51,5 +51,5 @@ Se desea crear lo siguiente
 - Buenas practicas de desarrollo
 - Comentar codigo (solo en la logica)
 
-### Data
-#### schema.json
+
+#### Data: schema.json
