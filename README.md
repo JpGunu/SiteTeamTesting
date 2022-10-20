@@ -1,7 +1,8 @@
+<div align="center">
+<img src="https://cdna.elcomercio.pe/resources/dist/elcomercio/images/logo.png)" align="center" />
+</div>  
 
-![Logo](https://cdna.elcomercio.pe/resources/dist/elcomercio/images/logo.png)
-
-## Bievenido!👋
+### Bievenido!👋
 
 Esta prueba es para saber tus conocimientos.
 
