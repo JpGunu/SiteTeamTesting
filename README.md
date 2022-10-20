@@ -10,9 +10,11 @@ Esta prueba es para saber tus conocimientos.
 
 Estos serán los skills para su desarrollo
 
-- React  
+- React
 
-- Hooks (Utilizar al menos 2)
+- Hooks (Usar al menos 2)
+
+- GIT (Usar al menos 3 commits)
   
 - SCSS (Buena practica con "BEM")
 
