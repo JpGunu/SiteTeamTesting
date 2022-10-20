@@ -1,5 +1,7 @@
 <div align="center">
+<a href="https://www.comercio.com.pe/" target="_blank" rel="noreferrer"> 
 <img src="https://i.imgur.com/6rzSKUD.png" align="center" />
+</a>
 </div>  
 
 ### Bievenido!👋
