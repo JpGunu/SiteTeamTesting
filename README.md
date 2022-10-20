@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdna.elcomercio.pe/resources/dist/elcomercio/images/logo.png" align="center" />
+<img src="https://i.imgur.com/6rzSKUD.png" align="center" />
 </div>  
 
 ### Bievenido!👋
